@@ -1,2 +1,3 @@
+This line is added in master barnch......
 Hello guys,
       This is the java file which contains DB connection logic.
